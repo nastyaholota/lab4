@@ -1,0 +1,47 @@
+ body {
+    background: #ADD8E6; 
+    font-family: Verdana ; 
+    font-size: 16px;
+    }
+    header {
+    background:#ADD8E6; 
+	color: purple;
+    height: 100px; 
+    width: 100%;
+    }
+    nav {
+    background: #ADD8E6; 
+    color: white; 
+    width: 100%; 
+    height: 50px;
+    }
+    aside {
+    background:#ADD8E6; 
+	color: pyrple;
+    float: left; 
+    width: 20%;
+    height: 400px;
+    }
+    #content { 
+    background: #ADD8E6; 
+	color: purple;
+    float: right; 
+    width: 80%;
+	table, th, td, tr {
+    height : 50px;
+    width: 300px;
+    }
+    }
+    #clear { 
+    clear:both;
+    }
+    footer {
+    background:#ADD8E6; 
+    color: purple; 
+    height: 80px; 
+    width: 100%;
+    }
+	
+
+    
+
